@@ -118,15 +118,6 @@ blog-app/
 └── README.md         # Project documentation
 ```
 
----
-
-## Future Enhancements
-- Deploy the application on AWS or Google Cloud for better scalability.
-- Add a WYSIWYG editor for blog creation.
-- Implement user profile management.
-
----
-
 ## Author
 **Anjali Patel**
 
