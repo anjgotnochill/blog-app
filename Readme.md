@@ -2,8 +2,12 @@
 # Blog Application
 
 This is a full-stack blog application built using Django for the backend and a modern frontend framework. The application supports user authentication, CRUD operations for blog posts, and responsive design for an optimal user experience on both desktop and mobile devices.
+
+## Desktop view
 ![image](https://github.com/user-attachments/assets/50857d6d-aff8-4025-9f76-eb2254ffc428)
 
+## Mobile View
+![image](https://github.com/user-attachments/assets/66e5a578-7b70-43d7-a7b7-41d098500f2f)
 
 ---
 
