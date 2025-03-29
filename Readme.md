@@ -105,19 +105,6 @@ The application is deployed on PythonAnywhere. You can access it at:
 
 ---
 
-## Repository Structure
-```
-blog-app/
-├── backend/          # Django backend files
-│   ├── manage.py     # Django management script
-│   ├── blog/         # Blog app with models, views, and APIs
-│   └── db.sqlite3    # SQLite database file
-├── frontend/         # React frontend files
-│   ├── public/       # Static assets
-│   └── src/          # React components
-└── README.md         # Project documentation
-```
-
 ## Author
 **Anjali Patel**
 
